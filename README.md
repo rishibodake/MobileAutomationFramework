@@ -1,5 +1,4 @@
 # MobileAutomationFramework
-# Selenium Appium Framework using Java
 
 This repository contains a framework for mobile automation testing using Selenium and Appium with Java. It provides a structured approach to writing test scripts and organizing test cases for mobile applications.
 
